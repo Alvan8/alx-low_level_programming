@@ -1,10 +1,11 @@
 #include "main.h"
+
 /**
  * print_sign - function that prints signs
  *
- * @n: function parameter to be printed
+ * @n: function parameter
  *
- * Return: 1,0 and -1
+ * Return: 1, 0 and -1
  */
 
 int print_sign(int n)
